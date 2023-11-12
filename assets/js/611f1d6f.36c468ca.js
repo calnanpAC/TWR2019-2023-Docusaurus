@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[8785],{3395:s=>{s.exports=JSON.parse('{"label":"first","permalink":"/TWR2019-2023-Docusaurus/blog/tags/first","allTagsPath":"/TWR2019-2023-Docusaurus/blog/tags","count":1,"unlisted":false}')}}]);
